@@ -1,1 +1,1 @@
-int add { int a=5,b=8,sum;sum=a+b; return sum; }
+added c code by guatam,vivek,rohit
